@@ -1,1 +1,1 @@
-web: MU-go-rest-api
+web: basic-go-rest-api-example
